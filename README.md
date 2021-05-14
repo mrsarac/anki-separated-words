@@ -1,0 +1,1 @@
+# anki-seperated-words
